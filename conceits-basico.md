@@ -67,3 +67,11 @@ Portanto, o valor do nosso estado é a média de todas as recompensas com descon
 Também é fácil perceber que ***v(s)*** é a média ponderada de ***q(s, a)*** em todas as ações possíveis no estado ***s***.
 
 ![img](https://miro.medium.com/max/229/1*LyWMoIu2JtC5GaAqIS9T3A.png)
+
+
+
+
+
+*Referências:*
+
+https://medium.com/@zsalloum/basics-of-reinforcement-learning-the-easy-way-fb3a0a44f30e
